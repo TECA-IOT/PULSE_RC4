@@ -2,7 +2,7 @@
 TRANSMISOR DE PULSOS SIGFOX RC4
 
 ### Manual Técnico
-- Link: `<link>` : <https://>
+- Link: `<link>` : <https://github.com/TECA-IOT/PULSE_RC4/blob/main/Manual%20t%C3%A9cnico/MANUAL%20TECNICO%20PULSE%20RC4_R1.1.pdf>
 
 ![PULSE_PINOUT](https://github.com/TECA-IOT/PULSE_RC4/blob/main/Imagenes/teca_pulse.jpg)
 
